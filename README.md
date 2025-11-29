@@ -20,9 +20,8 @@ fully interactive cross-filtered dashboards.
 ---
 
 # 🗂️ Data Model (Star Schema)
-
-> Attach your model screenshot here  
-`![Data Model](model_view.png)`
+  
+![Data Model](model_view.png)
 
 ### **Dimension Tables**
 - Dim_Customers  
@@ -48,8 +47,7 @@ fully interactive cross-filtered dashboards.
 
 # 📘 Dashboard 1 — Sales Performance & Customer Analytics
 
-> Attach Page 1 screenshot  
-`![Sales Dashboard](page1.png)`
+![Sales Dashboard](page1.png)
 
 ### 🎯 Purpose  
 To analyze revenue, orders, customer distribution, category sales, and geographical performance.
@@ -87,8 +85,7 @@ The business lacked a unified platform to understand **sales**, **orders**,
 
 # 📗 Dashboard 2 — Inventory Movements & Warehouse Operations
 
-> Attach Page 2 screenshot  
-`![Inventory Dashboard](page2.png)`
+![Inventory Dashboard](page2.png)
 
 ### 🎯 Purpose  
 To analyze stock flow, shipments, warehouse activity, and category-wise inventory movement.
@@ -130,9 +127,8 @@ Inventory teams lacked a unified visual system to track
 ---
 
 # 📙 Dashboard 3 — Product Performance & Category Insights
-
-> Attach Page 3 screenshot  
-`![Product Dashboard](page3.png)`
+  
+![Product Dashboard](page3.png)
 
 ### 🎯 Purpose  
 To analyze product pricing trends, price bucket distribution,  
